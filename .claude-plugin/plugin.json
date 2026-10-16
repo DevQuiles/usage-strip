@@ -1,0 +1,9 @@
+{
+  "name": "usage-strip",
+  "version": "1.0.0",
+  "description": "A minimal usage strip above the prompt: context, 5-hour and weekly limits, billing cycle and cost. Click-to-hide, threshold alerts.",
+  "author": { "name": "Valentino" },
+  "license": "MIT",
+  "keywords": ["mod", "usage", "rate-limits", "context", "status"],
+  "types": "./types/index.d.ts"
+}

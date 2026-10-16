@@ -1,0 +1,6 @@
+{
+  "name": "usage-strip",
+  "description": "usage-strip: a minimal usage strip above the Claude Code prompt.",
+  "owner": { "name": "Valentino" },
+  "plugins": [{ "name": "usage-strip", "source": "./" }]
+}
